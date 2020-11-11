@@ -5,9 +5,6 @@
 
 #pragma warning(disable : 4996)
 
-/*
-Define application constants
-*/
 const int kHeaderSize = 1024;
 const int kFooterSize = 1024;
 const int kMaxSecretLen = 1024;
