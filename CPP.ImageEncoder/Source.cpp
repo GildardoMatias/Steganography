@@ -3,9 +3,6 @@
 #include <string>
 #include <sstream>
 
-/*
-Disable the security warning of using fopen().  
-*/
 #pragma warning(disable : 4996)
 
 /*
